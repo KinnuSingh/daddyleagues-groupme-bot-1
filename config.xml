@@ -1,15 +1,15 @@
 <?xml version="1.0" standalone="yes"?>
 <all>
 	<config>
-		<baseurl>http://daddyleagues.com/</baseurl>
-		<league>TSL</league>
+		<baseurl>http://daddyleagues.com/wz</baseurl>
+		<league>WZ</league>
 		<cmdprefix>?</cmdprefix>
 		<pslimit>5</pslimit>
 		<charlimit>1000</charlimit>
 	</config>
 	<info>
-		<league>The Test League (TTL)</league>
-		<commish>put commish name here</commish>
+		<league>WarZone</league>
+		<commish>Kinnu Singh</commish>
 		<rules>put rules link here</rules>
 		<owners>put owners link here</owners>
 		<advance>9/3, 5pm Central</advance>
